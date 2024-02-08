@@ -14,4 +14,4 @@ The scripts expect the full dataset in `data/final/`, use [this library](https:/
 to extract the dataset and formatting of the data.
 
 ## Start finetunig
-Execute the script 'finetuning.py'
+Execute the script `finetuning.py`
